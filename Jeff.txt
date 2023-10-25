@@ -2,4 +2,5 @@ This is my fancy source code
 made a change
 another change
 Here is another change
+Line 5 change
 Line 5 extra code
